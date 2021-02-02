@@ -1,0 +1,24 @@
+{
+	" nom " : " tuto-bot-discord " ,
+	" version " : " 1.0.0 " ,
+	" description " : " Tutoriel pour apprendre à faire un bot Discord " ,
+	" main " : " bot.js " ,
+	" dépendances " : {
+		" discord.js " : " ^ 11.5.1 " ,
+		" ffmpeg " : " 0.0.4 " ,
+		" opusscript " : " 0.0.7 "
+	},
+	" scripts " : {
+		" test " : " node bot.js "
+	},
+	" dépôt " : {
+		" type " : " git " ,
+		" url " : " git + https: //github.com/rroyromain/tuto-bot-discord.git "
+	},
+	" auteur " : " Romain Roy " ,
+	" licence " : " MIT " ,
+	" bugs " : {
+		" url " : " https://github.com/rroyromain/tuto-bot-discord/issues "
+	},
+	" homepage " : " https://github.com/rroyromain/tuto-bot-discord#readme "
+}
